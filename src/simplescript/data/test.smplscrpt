@@ -1,0 +1,6 @@
+class test:
+
+$project_string = "first smpplscrpt file"
+$author_string = "mika"
+$version_string = "DEV-0.01"
+"loading: " + $project + " developed by " + $author + " in version: " + $version
